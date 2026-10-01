@@ -1,0 +1,5 @@
+"test","robust_wald_chisq","degrees_freedom","p_value"
+"merge_rate_agentic_formal_difference_changes_over_time",9.61648064522464,4,0.0474080768041184
+"merge_rate_agentic_inline_difference_changes_over_time",1.90882453171354,4,0.752523729307082
+"merge_rate_human_formal_association_changes_over_time",4.25888686303269,4,0.372101631084192
+"merge_rate_human_inline_association_changes_over_time",171.262839968215,4,5.60302107981086e-36

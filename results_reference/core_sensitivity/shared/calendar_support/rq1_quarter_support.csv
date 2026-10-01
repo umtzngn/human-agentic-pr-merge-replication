@@ -1,0 +1,7 @@
+created_quarter,human_prs,agentic_prs,human_repositories,agentic_repositories,repositories_with_both_sources,human_merged,human_closed_unmerged,agentic_merged,agentic_closed_unmerged
+2024-Q4,14,5,1,1,1,14,0,2,3
+2025-Q1,623,77,15,15,15,480,143,35,42
+2025-Q2,4644,712,78,75,73,3812,832,472,240
+2025-Q3,12579,2330,182,164,164,10786,1793,1589,741
+2025-Q4,20579,3069,254,203,203,17660,2919,2244,825
+2026-Q1,39942,9515,333,306,305,32959,6983,7443,2072

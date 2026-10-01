@@ -1,0 +1,8 @@
+group_id,group_label,group_order
+human,Human,0
+agent_claude_code,Claude_Code,1
+agent_copilot,Copilot,2
+agent_cursor,Cursor,3
+agent_devin,Devin,4
+agent_google_jules,Google_Jules,5
+agent_openai_codex,OpenAI_Codex,6

@@ -1,0 +1,4 @@
+"test","analysis_role","likelihood_ratio","degrees_freedom","p_value"
+"formal_review_by_family","RQ2 family interpretation",119.42552298808,6,2.15141884172495e-23
+"inline_review_by_family","RQ2 secondary family interpretation",38.780639766017,6,7.90228097592381e-07
+"incremental_inline_by_family_given_formal","RQ2 secondary family interpretation",26.3213417365914,6,0.000193950692547638

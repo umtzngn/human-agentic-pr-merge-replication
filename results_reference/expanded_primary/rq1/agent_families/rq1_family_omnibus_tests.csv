@@ -1,0 +1,4 @@
+"test","analysis_role","likelihood_ratio","degrees_freedom","p_value","p_value_holm"
+"files_changed_by_family","RQ1 interpretation",85.2576426282758,6,2.91933004415167e-16,5.83866008830333e-16
+"test_file_presence_by_family","RQ1 interpretation",40.7895631026477,6,3.18560835616729e-07,3.18560835616729e-07
+"description_length_by_family","RQ1 interpretation",110.384045209852,6,1.6938150651155e-21,5.08144519534651e-21

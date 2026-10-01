@@ -1,0 +1,13 @@
+{
+  "quarters": 6,
+  "first_quarter": "2024-Q4",
+  "last_quarter": "2026-Q1",
+  "quarters_with_both_sources": 6,
+  "quarters_with_both_sources_and_both_outcomes": 5,
+  "minimum_repositories_with_both_sources_in_supported_quarters": 1,
+  "cox_stuart_pairs_if_all_quarters_used": 3,
+  "minimum_attainable_two_sided_cox_stuart_p": 0.25,
+  "cox_stuart_recommended": false,
+  "trend_model_fitted": false,
+  "reason": "The short series cannot provide a useful exact two-sided Cox-Stuart test, and repository coverage changes sharply across quarters."
+}

@@ -1,0 +1,62 @@
+{
+  "sources": {
+    "rq1_prs.csv": {
+      "source": "/Users/umutzengin/Desktop/Courses/trust_paper_aidev76_v5/data/05_model_inputs/phase_b5/687ac9d28d78/phase_b5_pr_model_input.csv",
+      "package": "data/model_inputs/rq1_prs.csv",
+      "sha256": "36da5d36db11ce000903d7d8b5be94902c5d4087a4da761c78248e0724349571"
+    },
+    "rq2_prs.csv": {
+      "source": "/Users/umutzengin/Desktop/Courses/trust_paper_aidev76_v5/data/05_model_inputs/phase_b5/9559840112a4/phase_b5_pr_model_input.csv",
+      "package": "data/model_inputs/rq2_prs.csv",
+      "sha256": "81c26c946369f011f9bee11a0b94276c8fafa910006a3ea394490fc593f0781c"
+    },
+    "repository_sample": {
+      "source": "/Users/umutzengin/Desktop/Courses/trust_paper_aidev76_v5/data/04_cohorts/phase_b3/b3_final_repository_sample_341.csv",
+      "package": "data/repository_sample.csv",
+      "sha256": "2e3e8e7d3365151dc4c517d13062ab53cab757c83060dbaa0332069bcc91f282"
+    },
+    "claude_exclusions": {
+      "source": "/Users/umutzengin/Downloads/trust_claude_correction_scenarios_20260924_002827.zip",
+      "package": "data/provenance/claude_exclusions.zip",
+      "sha256": "03774ea1e3398a58c0c580719adf8c7cdd10f4df1cd85a9648afe491da2781c1"
+    },
+    "review_event_audit": {
+      "source": "/Users/umutzengin/Desktop/trust_rq2_design_audit_20260921_191552_128113.zip",
+      "package": "data/provenance/review_event_audit.zip",
+      "sha256": "3480477eb34b31c1226c4f8faf33905f7a4e02eefba6b76ee9826793ebdab020"
+    },
+    "refit_archive": {
+      "source": "/Users/umutzengin/Desktop/trust_paper_replication_verified_20261001/results_reproduced/trust_corrected_rq1_rq2_refit_20261001_023527.zip",
+      "package": "results_reference/archives/primary_models.zip",
+      "sha256": "a2caceef1aa2a5561a692e5e71919cdb3d6060607667cba92f48cc90ccc9772c"
+    },
+    "closure_archive": {
+      "source": "/Users/umutzengin/Desktop/trust_paper_replication_verified_20261001/results_reproduced/trust_analysis_closure_20261001_023548.zip",
+      "package": "results_reference/archives/additional_models.zip",
+      "sha256": "2c0651b5f3a745f1d1a760933fc6856b38e10ec9daa17cabd33679c64368d029"
+    },
+    "sampling_code": {
+      "source": "/Users/umutzengin/Desktop/Courses/trust_paper_aidev76_v5/src/22_freeze_phase_b3_final_sample.py",
+      "package": "code/sample_repositories.py",
+      "sha256": "f6956dacda7953836e10be2e382de5b7b0f74b4ad31018300d72cbc21223ca31"
+    },
+    "figure2": {
+      "source": "/Users/umutzengin/Desktop/trust_rq1_repository_ratios_20260930.csv",
+      "package": "results_reference/expanded_primary/rq1/repository_ratios.csv",
+      "sha256": "4e8a808b6102f3a03b5ac1b19c89d4cf319a02c88501580b889d21a73f18d5de"
+    },
+    "review_addition": {
+      "source": "/Users/umutzengin/Desktop/trust_rq2_review_terms_joint_test.csv",
+      "package": "results_reference/expanded_primary/rq2/review/review_addition_test.csv",
+      "sha256": "a02f958bad6b916a122d69c263c6eb7bc21d52d6db2d703b4e32f58551cc8a48"
+    }
+  },
+  "optional_absent": [
+    "/Users/umutzengin/Desktop/trust_paper_replication_verified_20261001/data/repository/repository_descriptives_original.csv",
+    "/Users/umutzengin/Desktop/trust_paper_replication_verified_20261001/config/frozen_analysis_contract.json"
+  ],
+  "reference_tables": {
+    "primary": 48,
+    "additional": 51
+  }
+}

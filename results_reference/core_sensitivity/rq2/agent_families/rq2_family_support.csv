@@ -1,0 +1,8 @@
+group_id,group_label,prs,repositories,repositories_also_with_human_prs,merged,closed_unmerged,formal_review,inline_review_comment
+human,Human,78362,341,341,65702,12660,37759,11878
+agent_claude_code,Claude_Code,8741,237,237,7271,1470,1226,402
+agent_copilot,Copilot,3885,174,174,2350,1535,1306,528
+agent_cursor,Cursor,405,31,31,175,230,77,22
+agent_devin,Devin,259,14,14,118,141,69,31
+agent_google_jules,Google_Jules,317,9,9,223,94,22,5
+agent_openai_codex,OpenAI_Codex,2100,122,122,1647,453,122,36
